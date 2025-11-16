@@ -1,0 +1,36 @@
+.header {
+  width: 2540px;
+  background-color: gray;
+  height: 80px;
+}
+
+.google-pixel-h2 {
+  font-family: Archivo;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.1px;
+  text-align: center;
+  margin-top: 20px;
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 26px;
+}
+
+.header-nav {
+  display: flex;
+  list-style-type: none;
+  margin-left: 1600px;
+  margin-top: 5px;
+  position: absolute;
+}
+
+.li-nav {
+  margin-left: 50px;
+  font-family: Archivo;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.1px;
+  margin-top: 20px;
+}
